@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         mx.Rooms.Cost-Timer.Beautifier
 // @namespace    mx.Rooms.Cost-Timer.Beautifier
-// @version      2.2.0
+// @version      2.2.1
 // @description  Colori costi + tooltip IT con produzione, risorse mancanti e tempo di attesa (Costruibile tra).
 // @author       mx.
 // @match        *://vendettagame.es/habitaciones*
 // @run-at       document-end
 // @grant        none
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/mxOneScripts/mx.Rooms.Costs-Timer.Beautifier/raw/refs/heads/main/mx.Rooms.Cost-Timer.Beautifier.user.js
+// @downloadURL  https://github.com/mxOneScripts/mx.Rooms.Costs-Timer.Beautifier/raw/refs/heads/main/mx.Rooms.Cost-Timer.Beautifier.user.js
 // ==/UserScript==
 
 
