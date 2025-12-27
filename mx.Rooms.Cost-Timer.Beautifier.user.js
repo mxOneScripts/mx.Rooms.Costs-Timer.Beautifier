@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         mx.vendetta.rooms.cost-timer.
-// @namespace    mx.vendetta.rooms.cost-timer.
+// @name         mx.Rooms.Cost-Timer.Beautifier
+// @namespace    mx.Rooms.Cost-Timer.Beautifier
 // @version      2.2.0
 // @description  Colori costi + tooltip IT con produzione, risorse mancanti e tempo di attesa (Costruibile tra).
 // @author       mx.
 // @match        *://vendettagame.es/habitaciones*
 // @run-at       document-end
 // @grant        none
-// @updateURL    https://github.com/dani-csg/rooms.costi-timer/raw/refs/heads/main/Rooms.Cost-Timer.user.js
-// @downloadURL  https://github.com/dani-csg/rooms.costi-timer/raw/refs/heads/main/Rooms.Cost-Timer.user.js
+// @updateURL    
+// @downloadURL  
 // ==/UserScript==
 
 
